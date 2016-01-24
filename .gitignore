@@ -6,7 +6,3 @@
 .DS_Store
 /build
 /captures
-# Ignore everything in this directory
-*
-# Except this file
-!.gitignore
