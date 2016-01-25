@@ -1,0 +1,1 @@
+This txt file is put here because the git bydefault ignore emptey folder's.
