@@ -47,4 +47,15 @@
         android:layout_marginTop="50dp"
         android:text="Chronometer" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Elapsed_time"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/reset_button"
+        android:layout_alignLeft="@+id/reset_button"
+        android:layout_alignStart="@+id/reset_button"
+        android:layout_alignRight="@+id/reset_button"
+        android:layout_alignEnd="@+id/reset_button" />
+
 </RelativeLayout>
